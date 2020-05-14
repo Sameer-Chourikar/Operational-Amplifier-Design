@@ -1,5 +1,5 @@
 Hello, 
-Thank you for reading this. This is the final design project for the Analog IC Design course at my university. It consists of design of an operational amplifier. The specification included a gain requirement of >= 65 dB using a single stage amplifier. The folded cascode topology was chosen to achieve the required gain and other specification. 0.35µm technology was used. Cadence Virtuoso is used for design and implementation. The results obtained were as follows:
+This is the final design project for EECT 6326: Analog IC Design course at The University of Texas at Dallas, which I took in Spring 2020 semester. It consists of design of an operational amplifier. The specification included a gain requirement of >= 65 dB using a single stage amplifier. The folded cascode topology was chosen to achieve the required gain and other specification. 0.35µm technology was used. Cadence Virtuoso is used for design and implementation. The results obtained were as follows:
 
 
 Specification	                   | Required	                | Obtained
