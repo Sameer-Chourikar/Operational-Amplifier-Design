@@ -17,6 +17,9 @@ Specification	                   | Required	                | Obtained
    PM	                            | >= 60°	                 | 85.27°
 
    PDiss                        | <= 0.5 mW	                 | 0.55 mW
+   
+ Please see the 'Final Report' for gaining additional insight into the project.
+ 
 
 
 
